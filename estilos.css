@@ -189,7 +189,7 @@ nav {
 
 .contsobre{
     background: url(img/Classic-Design.jpg);
-    padding: 360px 1340px 150px 10px;
+    padding: 340px 95% 100px 5%;
     background-position: left;
 }
 
@@ -280,7 +280,7 @@ h2 {
 }
 
 .galeriaProductos a:hover {
-    transform: scale(102%);
+    transform: scale(150%);
 }
 
 .galeriaProductos img {
@@ -292,9 +292,9 @@ h2 {
 /* PROMOCIONES */
 
 .promos article {
-    width: 305px;
-    height: 430px;
-    padding: 30px;
+    /*width: 305px;
+    height: 430px;*/
+    padding: 1%;
     justify-content: center;
     flex-direction: row;
     text-align: center;
@@ -326,8 +326,9 @@ h2 {
 .promos {
     display: flex;
     justify-content: center;
+    justify-content: center;
     margin-top: 40px;
-    width: 1300px;
+    width: 100%;
 }
 
 .promos img {
@@ -372,7 +373,7 @@ h2 {
 }
 
 .formulario {
-    width: 1200px;
+    width: 100%;
     margin: 0 auto;
     padding: 0 12px;
 }
@@ -500,7 +501,7 @@ label {
 
 .end p {
     color: white;
-    padding-top: 10px;
+    padding-top: 15px;
     font-weight: 500;
     font-size: 15px;
     padding-left: 15px;
