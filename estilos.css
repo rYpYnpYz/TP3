@@ -536,6 +536,7 @@ footer {
 }
 
 section {
+    min-width: 1200px;
     max-width: 1320px;
     /*estilo aplicado para cumplir con la consigna al 
     sacarlo se ajustan olos elementos acorde a un diseño integral*/
