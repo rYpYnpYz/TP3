@@ -534,3 +534,9 @@ footer {
     color: #666666;
     font-weight: 500;
 }
+
+section {
+    max-width: 1320px;
+    /*estilo aplicado para cumplir con la consigna al 
+    sacarlo se ajustan olos elementos acorde a un diseño integral*/
+}
