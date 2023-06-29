@@ -292,8 +292,6 @@ h2 {
 /* PROMOCIONES */
 
 .promos article {
-    /*width: 305px;
-    height: 430px;*/
     padding: 1%;
     justify-content: center;
     flex-direction: row;
