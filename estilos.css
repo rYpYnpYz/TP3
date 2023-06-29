@@ -326,9 +326,9 @@ h2 {
 .promos {
     display: flex;
     justify-content: center;
-    justify-content: center;
     margin-top: 40px;
     width: 100%;
+    max-width: 990px;
 }
 
 .promos img {
