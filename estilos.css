@@ -353,12 +353,12 @@ h2 {
 
 .btnComprar:hover {
     color: #000000;
-    background-color: #ffffff;
+    background-color: #ffe0e0;
 }
 
 .btnVerPromos:hover {
     color: #000000;
-    background-color: #ffffff;
+    background-color: #ffe0e0;
 }
 
 /*FIN PROMOCIONES */
@@ -463,13 +463,13 @@ label {
 
 .enviar:hover {
     color: #000000;
-    background-color: #ffffff;
+    background-color: #ffe0e0;
     cursor: pointer;
 }
 
 .borrar:hover {
     color: #000000;
-    background-color: #ffffff;
+    background-color: #ffe0e0;
     cursor: pointer;
 }
 
