@@ -113,6 +113,7 @@ nav {
     background-size: 60%;
     padding-top: 120px;
     padding-bottom: 50px;
+    max-width: 1320px;
 }
 
 
@@ -159,8 +160,12 @@ nav {
 #container {
     display: flex;
     flex-direction: row;
+    max-width: 1320px;
 }
 
+.contenedor {
+    max-width: 1320px;
+}
 .titulo {
     margin: auto;
 }
@@ -531,11 +536,4 @@ footer {
     font-family: 'Lato', sans-serif;
     color: #666666;
     font-weight: 500;
-}
-
-section {
-    min-width: 1200px;
-    max-width: 1320px;
-    /*estilo aplicado para cumplir con la consigna al 
-    sacarlo se ajustan olos elementos acorde a un diseño integral*/
 }
